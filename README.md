@@ -6,13 +6,38 @@ This is a web-based platform designed to simulate the LeetCode coding environmen
 - **Code editor** with syntax highlighting
 - **Real-time code execution** and output display
 - **Problem-solving** interface similar to LeetCode
+- **Multi-language and Theme Support** can change language and theme as user wish.
 
 ## Screenshots
-![Homepage](coding_playground.png)  
+![Homepage](images/coding_playground.png)  
 *The main dashboard showing available coding problems.*
 
-![Code Editor](coding_playground2.png)  
+![Code Editor](images/coding_playground2.png)  
 *The interactive code editor where users can solve coding challenges.*
 
 ## Installation
-1. Clone the repository:
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/coding_playground.git
+   ```
+   
+2. **Navigate to the project directory**:
+   ```bash
+   cd coding_playground
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server**:
+   ```bash
+   npm start
+   ```
+
+The app should now be accessible at `http://localhost:3000`.
+
