@@ -8,10 +8,10 @@ This is a web-based platform designed to simulate the LeetCode coding environmen
 - **Problem-solving** interface similar to LeetCode
 
 ## Screenshots
-![Homepage](path/to/homepage-screenshot.png)  
+![Homepage](coding_playground.png)  
 *The main dashboard showing available coding problems.*
 
-![Code Editor](path/to/code-editor-screenshot.png)  
+![Code Editor](coding_playground2.png)  
 *The interactive code editor where users can solve coding challenges.*
 
 ## Installation
